@@ -23,4 +23,4 @@ Como estudiante de 1º de Ingeniería de Telecomunicación (PARS), desarrollé e
 * **Modelado de Datos:** Relación de tablas de costes e ingresos para obtener una visión 360º de la rentabilidad.
 
 ---
-Creado por [Tu Nombre] - Estudiante de Ingeniería de Telecomunicación.
+Creado por Marcos Delicado García - Estudiante de Ingeniería de Telecomunicación.
